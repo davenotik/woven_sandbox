@@ -1,0 +1,5 @@
+name: woven_sandbox
+dependencies:
+  browser: any
+  polymer: ">=0.10.0 <0.11.0"
+  fancy_button: any
